@@ -2,6 +2,7 @@
 
 [![Hackage Version](https://img.shields.io/hackage/v/laws.svg)](https://hackage.haskell.org/package/laws)
 [![Build Status](https://img.shields.io/travis/jdnavarro/laws.svg)](https://travis-ci.org/jdnavarro/laws)
+[![Build status](https://github.com/jdnavarro/laws/actions/workflows/ci.yml/badge.svg)](https://github.com/jdnavarro/laws/actions/workflows/ci.yml)
 
 Helper predicates for property testing the following laws:
 
